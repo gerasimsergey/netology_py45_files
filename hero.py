@@ -19,4 +19,4 @@ def smartest_superhero():
         return f"Most Intelligence -> {i[0]}"
 
 
-print(smartest_superhero())
+# print(smartest_superhero())

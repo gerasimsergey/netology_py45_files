@@ -1,3 +1,5 @@
+tokens.py
+
 ### VirtualEnv template
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
@@ -20,6 +22,9 @@ __pycache__/
 
 # C extensions
 *.so
+
+
+.idea/*
 
 # Distribution / packaging
 .Python
